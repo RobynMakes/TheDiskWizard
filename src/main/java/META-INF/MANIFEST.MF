@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: goodwill.robyn.thediskwizard.Application
+Class-Path: javafx-graphics-18.0.1-win.jar javafx-swing-17.0.2-win.jar j
+ avafx-base-17.0.2-win.jar toolboxfx-17.0.28.jar javafx-controls-18.0.1.
+ jar toolbox-17.0.23.jar javafx-graphics-18.0.1.jar javafx-web-18.0.1.ja
+ r javafx-web-18.0.1-win.jar javafx-base-17.0.2.jar javafx-media-18.0.1.
+ jar javafx-fxml-18.0.1.jar javafx-swing-17.0.2.jar controlsfx-11.1.1.ja
+ r heatmap-17.0.9.jar javafx-media-18.0.1-win.jar tilesfx-17.1.9.jar jav
+ afx-fxml-18.0.1-win.jar countries-17.0.22.jar javafx-controls-18.0.1-wi
+ n.jar
+
